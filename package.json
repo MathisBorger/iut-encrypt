@@ -1,5 +1,5 @@
 {
-  "name": "iut-encrypt",
+  "name": "iut-encrypt-mathis",
   "version": "1.0.0",
   "description": "Chiffrement du mot de passe",
   "main": "index.js",
